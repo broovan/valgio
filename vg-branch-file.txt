@@ -5,3 +5,10 @@ Ini Dia Branch File
 - Create Data Analytics skuy
 - Create Data analytics
 - Learn Python
+- Learn PHP
+  - OOP
+  - Laravel
+- Learn Java Script 
+  - Vanilla
+  - Vue
+  - React
