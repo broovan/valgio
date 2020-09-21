@@ -1,4 +1,7 @@
 Ini Dia Branch File
 
 -Test File
-- Create Scotel App
+- Create Data analytics
+- Learn Python
+- Create Logo
+
