@@ -1,7 +1,7 @@
 Ini Dia Branch File
 
 -Test File
+- Create Scotel App Society
+- Create Data Analytics skuy
 - Create Data analytics
 - Learn Python
-- Create Logo
-
